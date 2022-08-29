@@ -1,9 +1,9 @@
 # SPU
-Sigma Processing Unit: an 8-bit CPU designed by myself, inspired by Ben Eater.
+Sigma Processing Unit: an indelendently driveable 8-bit CPU designed by myself, inspired by the interface used to communicate with the 6502 microprocesser and Ben Eater's 8 bit cpu.
 <img width="593" alt="image" src="https://user-images.githubusercontent.com/77999105/187117492-b33b1505-24b4-45d1-8b19-c9c5a9dc9f05.png">
 
 ## Specs
-- 8 bit address bus for a total of 256 memory locations (including program storage, which starts at address 0)
+- 8 bit address bus for a total of 256 memory locations (including program counter, which starts at address 0, and can also go up to 255)
 - 8 bit data bus
 
 - 2 general purpose registers
@@ -12,15 +12,21 @@ Sigma Processing Unit: an 8-bit CPU designed by myself, inspired by Ben Eater.
 - 16 instructions avaliable currently with minimal edits required in order to increase up to 128 instructions
 - 16 clock cycles required for each instruction
 
+- R/W flag for memory
+
+- support for external I/O
+
+- turing complete
+
 - maximum clock speed of idfk
 
 ### instructions
 
 - still writing firmware
 
-
 ## todo
 
 - write firmware
 - create pcb
+- design a VIA for the processor for I/O
 - design ram and motherboard
