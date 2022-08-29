@@ -6,6 +6,8 @@ Sigma Processing Unit: an indelendently driveable 8-bit CPU designed by myself, 
 - 8 bit address bus for a total of 256 memory locations (including program counter, which starts at address 0, and can also go up to 255)
 - 8 bit data bus
 
+- full 8 bit load immediate instructions supported
+
 - 2 general purpose registers
 - add/subtraction for ALU with conditional junps for both Zero and Carry flags
 
