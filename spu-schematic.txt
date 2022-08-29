@@ -1,0 +1,42 @@
+Partlist exported from /Users/thomas/Documents/EAGLE/projects/spu/spu-schematic.sch at 2022-08-28 8:30 PM
+
+Part    Value    Device    Package Description                          POPULARITY
+ADDRESS          PINHD-1X8 1X08    PIN HEADER                           67        
+DATA             PINHD-1X8 1X08    PIN HEADER                           67        
+HALT             PINHD-1X1 1X01    PIN HEADER                           64        
+IC1     74LS173N 74LS173N  DIL16   4-bit D type REGISTER, 3-state       0         
+IC2     74LS173N 74LS173N  DIL16   4-bit D type REGISTER, 3-state       0         
+IC3     74LS173N 74LS173N  DIL16   4-bit D type REGISTER, 3-state       0         
+IC4     74LS173N 74LS173N  DIL16   4-bit D type REGISTER, 3-state       0         
+IC5     74AC245N 74AC245N  DIL20   Octal BUS TRANSCEIVER, 3-state       0         
+IC6     74AC245N 74AC245N  DIL20   Octal BUS TRANSCEIVER, 3-state       0         
+IC7     74LS173N 74LS173N  DIL16   4-bit D type REGISTER, 3-state       0         
+IC8     74LS173N 74LS173N  DIL16   4-bit D type REGISTER, 3-state       0         
+IC9     74AC245N 74AC245N  DIL20   Octal BUS TRANSCEIVER, 3-state       0         
+IC10    74AC245N 74AC245N  DIL20   Octal BUS TRANSCEIVER, 3-state       0         
+IC11    74LS86N  74LS86N   DIL14   Quad 2-input EXCLUSIVE-OR (XOR) gate 0         
+IC12    74LS283N 74LS283N  DIL16   4-bit binary FULL ADDER, fast carry  0         
+IC13    74LS283N 74LS283N  DIL16   4-bit binary FULL ADDER, fast carry  0         
+IC14    74LS86N  74LS86N   DIL14   Quad 2-input EXCLUSIVE-OR (XOR) gate 0         
+IC15    74LS173N 74LS173N  DIL16   4-bit D type REGISTER, 3-state       0         
+IC16    74S02N   74S02N    DIL14   Quad 2-input NOR gate                0         
+IC17    74LS08N  74LS08N   DIL14   Quad 2-input AND gate                0         
+IC18    74AC245N 74AC245N  DIL20   Octal BUS TRANSCEIVER, 3-state       0         
+IC19    74LS173N 74LS173N  DIL16   4-bit D type REGISTER, 3-state       0         
+IC20    74LS173N 74LS173N  DIL16   4-bit D type REGISTER, 3-state       0         
+IC21    74AC245N 74AC245N  DIL20   Octal BUS TRANSCEIVER, 3-state       0         
+IC22    74LS161  74HCT160N DIL16   Synchronous 4-bit COUNTER            0         
+IC23    74LS161  74HCT160N DIL16   Synchronous 4-bit COUNTER            0         
+IC24    74LS173N 74LS173N  DIL16   4-bit D type REGISTER, 3-state       0         
+IC25    74LS173N 74LS173N  DIL16   4-bit D type REGISTER, 3-state       0         
+IC26    74AC245N 74AC245N  DIL20   Octal BUS TRANSCEIVER, 3-state       0         
+IC27    74LS04N  74LS04N   DIL14   Hex INVERTER                         0         
+IC28    74LS04N  74LS04N   DIL14   Hex INVERTER                         0         
+IC29    74LS04N  74LS04N   DIL14   Hex INVERTER                         0         
+IC30    74LS161  74HC160N  DIL16   Synchronous 4-bit COUNTER            0         
+IC31    74LS04N  74LS04N   DIL14   Hex INVERTER                         0         
+JP2     CLOCK/RW PINHD-1X2 1X02    PIN HEADER                           98        
+POWER   5V/GND   PINHD-1X2 1X02    PIN HEADER                           98        
+U1      AT28C256 AT28C256  DIL28-6 EEPROM 32Kx8 256k bit                          
+U2      AT28C256 AT28C256  DIL28-6 EEPROM 32Kx8 256k bit                          
+U3      AT28C256 AT28C256  DIL28-6 EEPROM 32Kx8 256k bit                          
