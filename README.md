@@ -22,7 +22,7 @@ Sigma Processing Unit: an indelendently driveable 8-bit CPU designed by myself, 
 
 - maximum clock speed of idfk
 
-### instructions
+### instruction set
 
 - still writing firmware
 
