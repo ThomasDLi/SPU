@@ -32,3 +32,7 @@ Sigma Processing Unit: an indelendently driveable 8-bit CPU designed by myself, 
 - create pcb
 - design a VIA for the processor for I/O
 - design ram and motherboard
+
+## downloading design
+
+This CPU was designed using 74LS series ICs from Texas Instruments, and was made using Autodesk Eagle.
