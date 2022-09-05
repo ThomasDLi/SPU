@@ -1,5 +1,14 @@
 # SPU (work in progress)
 Sigma Processing Unit: an indelendently driveable 8-bit CPU designed by myself, inspired by the interface used to communicate with the 6502 microprocesser and Ben Eater's 8 bit cpu.
+
+<img width="999" alt="image" src="https://user-images.githubusercontent.com/77999105/188357888-0de9cc34-74df-4725-9b52-c6da3d99f465.png">
+
+(pcb)
+
+<img width="571" alt="image" src="https://user-images.githubusercontent.com/77999105/188357806-a9fee5e7-06ed-4950-b25a-e4083ca523f1.png">
+
+(pcb layout)
+
 <img width="593" alt="image" src="https://user-images.githubusercontent.com/77999105/187117492-b33b1505-24b4-45d1-8b19-c9c5a9dc9f05.png">
 
 (zoomed out screenshot of the schematic)
