@@ -5,7 +5,7 @@ Sigma Processing Unit: an indelendently driveable 8-bit CPU designed by myself, 
 
 (pcb)
 
-<img width="571" alt="image" src="https://user-images.githubusercontent.com/77999105/188357806-a9fee5e7-06ed-4950-b25a-e4083ca523f1.png">
+<img width="869" alt="image" src="https://user-images.githubusercontent.com/77999105/188374037-af4aeea7-f655-4e7e-8a70-22cf283e15ec.png">
 
 (pcb layout)
 
