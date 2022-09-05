@@ -2715,7 +2715,11 @@ Only Memory. Its 256K of memory is organized as 32,768 words by 8 bits. &lt;/p&g
 <variantdefs>
 </variantdefs>
 <classes>
-<class number="0" name="default" width="0" drill="0">
+<class number="0" name="default" width="0.762" drill="0">
+<clearance class="0" value="0.2"/>
+</class>
+<class number="1" name="power" width="0.762" drill="0">
+<clearance class="1" value="0.2"/>
 </class>
 </classes>
 <groups>
@@ -3027,7 +3031,7 @@ Only Memory. Its 256K of memory is organized as 32,768 words by 8 bits. &lt;/p&g
 <busses>
 </busses>
 <nets>
-<net name="VCC" class="0">
+<net name="VCC" class="1">
 <segment>
 <pinref part="POWER" gate="G$1" pin="1"/>
 <wire x1="307.34" y1="43.18" x2="299.72" y2="43.18" width="0.1524" layer="91" grouprefs="EXTERNAL-CONNECTIONS"/>
@@ -3097,7 +3101,7 @@ Only Memory. Its 256K of memory is organized as 32,768 words by 8 bits. &lt;/p&g
 <label x="360.68" y="414.02" size="1.778" layer="95" xref="yes" grouprefs="CONTROL-UNIT"/>
 </segment>
 </net>
-<net name="GND" class="0">
+<net name="GND" class="1">
 <segment>
 <pinref part="POWER" gate="G$1" pin="2"/>
 <wire x1="307.34" y1="40.64" x2="299.72" y2="40.64" width="0.1524" layer="91" grouprefs="EXTERNAL-CONNECTIONS"/>
