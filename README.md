@@ -40,9 +40,7 @@ Sigma Processing Unit: an indelendently driveable 8-bit CPU designed by myself, 
 ## todo
 
 - write firmware
-- create pcb
 - design a VIA for the processor for I/O
-- design ram and motherboard
 
 ## downloading design
 
