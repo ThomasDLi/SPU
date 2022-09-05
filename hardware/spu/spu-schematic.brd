@@ -155,7 +155,7 @@
 <layer number="255" name="routoute" color="7" fill="1" visible="yes" active="yes"/>
 </layers>
 <board>
-<fusionsync huburn="a.YnVzaW5lc3M6Z21haWwyNjgzOTc1" projecturn="a.YnVzaW5lc3M6Z21haWwyNjgzOTc1I0QyMDIyMDgwOTU0NTQ0NTUwMQ" f3durn="urn:adsk.wipprod:dm.lineage:YJCFfetUTtm_cQhNr1toaA" pcbguid="9b93796c-142c-4ac6-88fe-bb2f59f2549b" lastpulledtime="" lastsyncedchangeguid="" latestrevisionid="563c9bb4-2e05-447a-94b2-3c80c2f7d0ae" lastsyncedrevisionid="563c9bb4-2e05-447a-94b2-3c80c2f7d0ae" lastboardhashguid="9d492519-2670-f138-0a1c-446aa4041ed2" lastpushedtime="2022-09-05T03:54:51Z" linktopcb3d="true"/>
+<fusionsync huburn="a.YnVzaW5lc3M6Z21haWwyNjgzOTc1" projecturn="a.YnVzaW5lc3M6Z21haWwyNjgzOTc1I0QyMDIyMDgwOTU0NTQ0NTUwMQ" f3durn="urn:adsk.wipprod:dm.lineage:YJCFfetUTtm_cQhNr1toaA" pcbguid="" lastpulledtime="" lastsyncedchangeguid="" latestrevisionid="563c9bb4-2e05-447a-94b2-3c80c2f7d0ae" lastsyncedrevisionid="563c9bb4-2e05-447a-94b2-3c80c2f7d0ae" lastboardhashguid="9d492519-2670-f138-0a1c-446aa4041ed2" lastpushedtime="2022-09-05T03:54:51Z" linktopcb3d="true"/>
 <plain>
 <wire x1="0" y1="0" x2="321.29" y2="0" width="0" layer="20"/>
 <wire x1="321.29" y1="0" x2="320.02" y2="209.22" width="0" layer="20"/>
@@ -175,7 +175,7 @@
 <wire x1="86.36" y1="39.37" x2="86.36" y2="82.55" width="0.1524" layer="25"/>
 <wire x1="227.33" y1="133.35" x2="317.5" y2="133.35" width="0.1524" layer="25"/>
 <wire x1="223.52" y1="133.35" x2="5.08" y2="133.35" width="0.1524" layer="25"/>
-<text x="88.9" y="153.67" size="50.8" layer="25">SPU</text>
+<text x="97.79" y="152.4" size="50.8" layer="25">SPU</text>
 <text x="125.73" y="139.7" size="5.08" layer="25">designed by Thomas Li</text>
 </plain>
 <libraries>
