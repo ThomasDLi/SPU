@@ -1,5 +1,5 @@
 # SPU (work in progress)
-Sigma Processing Unit: an indelendently driveable 8-bit CPU designed by myself, inspired by the interface used to communicate with the 6502 microprocesser and Ben Eater's 8 bit cpu.
+Sigma Processing Unit: an indelendently driveable 8-bit CPU designed by myself, inspired by the interface used to communicate with the 6502 microprocesser and Ben Eater's 8 bit cpu. I have also written an article on this project! https://thomasdli.notion.site/Designing-An-8-Bit-CPU-Thomas-Li-f7da20de04c84557adcc27d55567141a
 
 <img width="999" alt="image" src="https://user-images.githubusercontent.com/77999105/188357888-0de9cc34-74df-4725-9b52-c6da3d99f465.png">
 
